@@ -1,6 +1,8 @@
 # vue-demo
 
-> A project for introducing Vue.js
+> A live demo for learning Vue.js  [https://gaoshu883.github.io/vue-demo/](https://gaoshu883.github.io/vue-demo/)
+
+> Thanks to [Vuep](https://github.com/QingWei-Li/vuep/), feel free to edit in the page.
 
 ## Build Setup
 
@@ -18,4 +20,3 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
