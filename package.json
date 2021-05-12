@@ -11,7 +11,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "codemirror": "^5.45.0",
+    "codemirror": "^5.58.2",
     "vue": "^2.5.2",
     "vuep": "^0.8.1"
   },
